@@ -18,5 +18,9 @@
   "code-examples": {
     "title": "Code Beispiele",
     "type": "page"
+  },
+  "experience-report": {
+    "title": "Erfahrungsbericht",
+    "type": "page"
   }
 }
